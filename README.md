@@ -2,21 +2,6 @@
 
 A complete PHP-based Task Management System with REST API following MVC architecture, designed for intermediate PHP developer positions.
 
-## Table of Contents
-- [Features](#features)
-- [System Requirements](#system-requirements)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Database Setup](#database-setup)
-- [File Structure](#file-structure)
-- [API Documentation](#api-documentation)
-- [Frontend Usage](#frontend-usage)
-- [Development](#development)
-- [Testing](#testing)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 ### Core Functionality
