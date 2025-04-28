@@ -13,7 +13,7 @@ A complete PHP-based Task Management System with REST API following MVC architec
 
 ### Technical Features
 - 🚀 RESTful API endpoints
-- 📊 Paginated task listing (10 items per page)
+- 📊 Paginated task listing (10 items per page) 
 - 🔍 Basic frontend interface with AJAX capabilities
 - 🔒 Secure database operations using prepared statements
 - 📱 Responsive design with Bootstrap 5
