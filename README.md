@@ -2,7 +2,7 @@
 
 A complete PHP-based Task Management System with REST API following MVC architecture, designed for intermediate PHP developer positions.
 
-## Features
+## Features 
 
 ### Core Functionality
 - ✅ Create, read, update, and delete tasks
